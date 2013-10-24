@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">  
+    <file alias="AppWindow.qml">qml/symbian.qml</file>
+    <file alias="FlipableMirror.qml">qml/FlipableMirror.qml</file>
+    <file alias="Info.qml">qml/Info.qml</file>
+    <file alias="main.qml">qml/main.qml</file>
+    <file alias="Mirror.qml">qml/Mirror.qml</file>
+    <file alias="TicketButton.qml">qml/TicketButton.qml</file>
+    <file>gfx/mirror.png</file>
+    <file>gfx/exit_full.png</file>
+    <file>gfx/info_close.png</file>
+    <file>gfx/info_full.png</file>
+    <file>gfx/info_noshadow.png</file>
+    <file>gfx/save_full.png</file>
+    <file>gfx/mirrorhouse_background.png</file>
+    <file>gfx/info_small.png</file>
+</qresource>
+</RCC>
