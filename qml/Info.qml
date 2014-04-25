@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2011-2012 Nokia Corporation.
+ * Copyright (c) 2011-2014 Microsoft Mobile.
  */
 
 import QtQuick 1.1
@@ -88,7 +88,7 @@ Item {
                   + "different mirror effects.<br>"
                   + "Swipe the mirrors from right to left to get more mirrors visible. "
                   + "Tap the mirror for turning and pinch for zooming the mirror.<br><br>"
-                  + "Copyright 2011-2012 Nokia Corporation. All rights reserved.";
+                  + "Copyright (c) 2011-2014 Microsoft Mobile. All rights reserved.";
 
             wrapMode: Text.WordWrap
             onLinkActivated: Qt.openUrlExternally(link);
